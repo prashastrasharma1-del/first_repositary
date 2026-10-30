@@ -1,0 +1,18 @@
+flex-container {
+ display: flex; 
+ justify-content: center; 
+ border: 2px dashed #609;
+ padding: 10px;
+}
+.body_detail{
+        width: 300px;
+        background-color: blue;
+        padding: 40px;
+        box-shadow: 1 1 0 black;
+        align-items: center;
+    }
+.pic_detail{
+        width: 70px;
+        height: 70px;
+        border-radius: 35px;
+}
